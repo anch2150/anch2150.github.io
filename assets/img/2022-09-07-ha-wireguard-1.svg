@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+    width="399px" height="246.5px" viewBox="-0.5 -0.5 399 246.5">
+    <defs>
+        <style type="text/css">ul { margin-top: 0px; margin-bottom: 10px; }&#xa;ol { margin-top:
+            0px; margin-bottom: 10px; }&#xa;.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+            margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }&#xa;h1, h2, h3, h4, h5, h6 {
+            margin-top: 0; margin-bottom: .5rem; }&#xa;.h1, h1 { font-size: 2.5rem; }&#xa;h2 {
+            font-size: 1.5em; font-weight: bold; }&#xa;h3 { font-size: 1.17em; font-weight: bold;
+            }&#xa;.h4, h4 { font-size: 1.5rem; }&#xa;.h5, h5 { font-size: 1.25rem; }&#xa;.h6, h6 {
+            font-size: 1rem; }&#xa;p { margin-top: 0; margin-bottom: 1rem; }&#xa;a { color: #007bff;
+            }&#xa;</style>
+        <clipPath cell-id="WFkd4TCEXYtGdIXSzUNu-19" id="mx-clip-10-133-132-26-0">
+            <rect cell-id="WFkd4TCEXYtGdIXSzUNu-19" x="10" y="133" width="132" height="26" />
+        </clipPath>
+        <clipPath cell-id="WFkd4TCEXYtGdIXSzUNu-20" id="mx-clip-10-159-132-26-0">
+            <rect cell-id="WFkd4TCEXYtGdIXSzUNu-20" x="10" y="159" width="132" height="26" />
+        </clipPath>
+        <clipPath cell-id="WFkd4TCEXYtGdIXSzUNu-21" id="mx-clip-10-185-132-26-0">
+            <rect cell-id="WFkd4TCEXYtGdIXSzUNu-21" x="10" y="185" width="132" height="26" />
+        </clipPath>
+        <style type="text/css">
+            @import
+            url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap");&#xa;@import
+            url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap");&#xa;</style>
+    </defs>
+    <g>
+        <g shape-node="">
+            <rect cell-id="WFkd4TCEXYtGdIXSzUNu-2" x="26" y="38" width="100" height="25.86"
+                rx="5.17" ry="5.17" fill="#cccccc" stroke="#6881b3" stroke-width="2"
+                pointer-events="all" />
+            <rect cell-id="WFkd4TCEXYtGdIXSzUNu-2" x="36" y="63.86" width="80" height="4.14"
+                fill="#cccccc" stroke="#6881b3" stroke-width="2" pointer-events="all" />
+            <path cell-id="WFkd4TCEXYtGdIXSzUNu-2"
+                d="M 29 45.24 L 35 45.24 L 35 48.34 L 33 48.34 L 33 49.38 L 31 49.38 L 31 48.34 L 29 48.34 Z M 37.5 45.24 L 43.5 45.24 L 43.5 48.34 L 41.5 48.34 L 41.5 49.38 L 39.5 49.38 L 39.5 48.34 L 37.5 48.34 Z M 46 45.24 L 52 45.24 L 52 48.34 L 50 48.34 L 50 49.38 L 48 49.38 L 48 48.34 L 46 48.34 Z M 54.5 45.24 L 60.5 45.24 L 60.5 48.34 L 58.5 48.34 L 58.5 49.38 L 56.5 49.38 L 56.5 48.34 L 54.5 48.34 Z M 63 45.24 L 69 45.24 L 69 48.34 L 67 48.34 L 67 49.38 L 65 49.38 L 65 48.34 L 63 48.34 Z M 71.5 45.24 L 77.5 45.24 L 77.5 48.34 L 75.5 48.34 L 75.5 49.38 L 73.5 49.38 L 73.5 48.34 L 71.5 48.34 Z M 80 45.24 L 86 45.24 L 86 48.34 L 84 48.34 L 84 49.38 L 82 49.38 L 82 48.34 L 80 48.34 Z M 88.5 45.24 L 94.5 45.24 L 94.5 48.34 L 92.5 48.34 L 92.5 49.38 L 90.5 49.38 L 90.5 48.34 L 88.5 48.34 Z"
+                fill="#ffffff" stroke="none" pointer-events="all" />
+            <ellipse cell-id="WFkd4TCEXYtGdIXSzUNu-2" cx="114" cy="50.93" rx="8"
+                ry="8.275862068965518" fill="#ffffff" stroke="none" pointer-events="all" />
+            <ellipse cell-id="WFkd4TCEXYtGdIXSzUNu-2" cx="101" cy="43.17" rx="2"
+                ry="2.0689655172413794" fill="#ffffff" stroke="none" pointer-events="all" />
+            <ellipse cell-id="WFkd4TCEXYtGdIXSzUNu-2" cx="101" cy="58.69" rx="2"
+                ry="2.0689655172413794" fill="#ffffff" stroke="none" pointer-events="all" />
+            <ellipse cell-id="WFkd4TCEXYtGdIXSzUNu-2" cx="101" cy="50.93" rx="2"
+                ry="2.0689655172413794" fill="#ffffff" stroke="none" pointer-events="all" />
+            <ellipse cell-id="WFkd4TCEXYtGdIXSzUNu-2" cx="91.5" cy="55.59" rx="2"
+                ry="2.0689655172413794" fill="#ffffff" stroke="none" pointer-events="all" />
+            <ellipse cell-id="WFkd4TCEXYtGdIXSzUNu-2" cx="83" cy="55.59" rx="2"
+                ry="2.0689655172413794" fill="#ffffff" stroke="none" pointer-events="all" />
+            <ellipse cell-id="WFkd4TCEXYtGdIXSzUNu-2" cx="74.5" cy="55.59" rx="2"
+                ry="2.0689655172413794" fill="#ffffff" stroke="none" pointer-events="all" />
+            <ellipse cell-id="WFkd4TCEXYtGdIXSzUNu-2" cx="66" cy="55.59" rx="2"
+                ry="2.0689655172413794" fill="#ffffff" stroke="none" pointer-events="all" />
+            <ellipse cell-id="WFkd4TCEXYtGdIXSzUNu-2" cx="57.5" cy="55.59" rx="2"
+                ry="2.0689655172413794" fill="#ffffff" stroke="none" pointer-events="all" />
+            <ellipse cell-id="WFkd4TCEXYtGdIXSzUNu-2" cx="49" cy="55.59" rx="2"
+                ry="2.0689655172413794" fill="#ffffff" stroke="none" pointer-events="all" />
+            <ellipse cell-id="WFkd4TCEXYtGdIXSzUNu-2" cx="40.5" cy="55.59" rx="2"
+                ry="2.0689655172413794" fill="#ffffff" stroke="none" pointer-events="all" />
+            <ellipse cell-id="WFkd4TCEXYtGdIXSzUNu-2" cx="32" cy="55.59" rx="2"
+                ry="2.0689655172413794" fill="#ffffff" stroke="none" pointer-events="all" />
+            <path cell-id="WFkd4TCEXYtGdIXSzUNu-2"
+                d="M 114 45.24 L 114 56.62 M 107.5 50.93 L 111.5 50.93 M 116.5 50.93 L 120.5 50.93 M 112 47.31 L 114 45.24 L 116 47.31 M 112 54.55 L 114 56.62 L 116 54.55 M 109.5 48.86 L 111.5 50.93 L 109.5 53 M 118.5 48.86 L 116.5 50.93 L 118.5 53"
+                fill="none" stroke="#6881b3" stroke-miterlimit="10" pointer-events="all" />
+        </g>
+        <g shape-node="" text-node="">
+            <g cell-id="WFkd4TCEXYtGdIXSzUNu-2" transform="translate(-0.5 -0.5)">
+                <switch cell-id="WFkd4TCEXYtGdIXSzUNu-2">
+                    <foreignObject cell-id="WFkd4TCEXYtGdIXSzUNu-2"
+                        style="overflow: visible; text-align: left;" pointer-events="none"
+                        width="100%" height="100%"
+                        requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                            style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 75px; margin-left: 27px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                                <div ani=""
+                                    style="display: inline-block; font-size: 14px; font-family: &quot;Helvetica&quot;, &quot;VP Default&quot;; color: #333333; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                                    <font color="#333333" style="font-size: 14px">Router</font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <svg width="100%" height="100%">
+                        <defs>
+                            <path id="fZGVqNGBWHVMqgUz" d="M54.984375,89.7 h42.0234375" />
+                        </defs>
+                        <text fill="rgb(51, 51, 51)" font-size="14px"
+                            font-family="Helvetica, &quot;VP Default&quot;" font-weight="400">
+                            <textPath xlink:href="#fZGVqNGBWHVMqgUz" startOffset="50%"
+                                text-anchor="middle">
+                                <tspan xml:space="preserve">Router</tspan>
+                            </textPath>
+                        </text>
+                    </svg>
+                </switch>
+            </g>
+        </g>
+        <g shape-node="">
+            <rect cell-id="WFkd4TCEXYtGdIXSzUNu-7" x="0" y="3" width="152" height="32" fill="none"
+                stroke="none" pointer-events="all" />
+        </g>
+        <g shape-node="" text-node="">
+            <g cell-id="WFkd4TCEXYtGdIXSzUNu-7" transform="translate(-0.5 -0.5)">
+                <switch cell-id="WFkd4TCEXYtGdIXSzUNu-7">
+                    <foreignObject cell-id="WFkd4TCEXYtGdIXSzUNu-7"
+                        style="overflow: visible; text-align: left;" pointer-events="none"
+                        width="100%" height="100%"
+                        requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                            style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 150px; height: 1px; padding-top: 19px; margin-left: 1px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                                <div ani=""
+                                    style="display: inline-block; font-size: 14px; font-family: &quot;Open Sans&quot;, &quot;VP Default&quot;; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                                    10.0.0.1/8</div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <svg width="100%" height="100%">
+                        <defs>
+                            <path id="_ZGVqNGBWHVMqgU0" d="M43.8984375,25.3015625 h64.203125" />
+                        </defs>
+                        <text fill="rgb(0, 0, 0)" font-size="14px"
+                            font-family="&quot;Open Sans&quot;, &quot;VP Default&quot;"
+                            font-weight="400">
+                            <textPath xlink:href="#_ZGVqNGBWHVMqgU0" startOffset="50%"
+                                text-anchor="middle">
+                                <tspan xml:space="preserve">10.0.0.1/8</tspan>
+                            </textPath>
+                        </text>
+                    </svg>
+                </switch>
+            </g>
+        </g>
+        <g shape-node="">
+            <rect cell-id="WFkd4TCEXYtGdIXSzUNu-12" x="254.2" y="52.12" width="100" height="15.88"
+                fill="#cccccc" stroke="#6881b3" stroke-width="1.76" pointer-events="all" />
+            <path cell-id="WFkd4TCEXYtGdIXSzUNu-12"
+                d="M 258.2 49.47 L 279.2 38 L 329.2 38 L 350.2 49.47 Z" fill="#cccccc"
+                stroke="#6881b3" stroke-width="1.76" stroke-miterlimit="10" pointer-events="all" />
+            <path cell-id="WFkd4TCEXYtGdIXSzUNu-12"
+                d="M 258.2 68 L 258.2 52.12 L 263.2 52.12 L 263.2 53.88 L 271.2 56.09 L 275.2 56.09 L 275.2 52.12 L 277.7 52.12 L 277.7 56.09 L 293.2 56.09 L 293.2 52.12 L 295.7 52.12 L 295.7 56.09 L 311.7 56.09 L 311.7 52.12 L 314.2 52.12 L 314.2 56.09 L 330.2 56.09 L 330.2 52.12 L 332.7 52.12 L 332.7 56.09 L 336.7 56.09 L 344.7 53.88 L 344.7 52.12 L 349.7 52.12 L 349.7 68 L 344.7 68 L 344.7 66.24 L 336.7 64.03 L 332.7 64.03 L 332.7 68 L 330.2 68 L 330.2 64.03 L 314.2 64.03 L 314.2 68 L 311.7 68 L 311.7 64.03 L 295.7 64.03 L 295.7 68 L 293.2 68 L 293.2 64.03 L 277.7 64.03 L 277.7 68 L 275.2 68 L 275.2 64.03 L 271.2 64.03 L 263.2 66.24 L 263.2 68 Z"
+                fill="#ffffff" stroke="#6881b3" stroke-width="1.76" stroke-miterlimit="10"
+                pointer-events="all" />
+        </g>
+        <g shape-node="" text-node="">
+            <g cell-id="WFkd4TCEXYtGdIXSzUNu-12" transform="translate(-0.5 -0.5)">
+                <switch cell-id="WFkd4TCEXYtGdIXSzUNu-12">
+                    <foreignObject cell-id="WFkd4TCEXYtGdIXSzUNu-12"
+                        style="overflow: visible; text-align: left;" pointer-events="none"
+                        width="100%" height="100%"
+                        requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                            style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 75px; margin-left: 255px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                                <div ani=""
+                                    style="display: inline-block; font-size: 14px; font-family: &quot;Helvetica&quot;, &quot;VP Default&quot;; color: #333333; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                                    <span style="color: rgb(51 , 51 , 51)">Raspi 4b</span>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <svg width="100%" height="100%">
+                        <defs>
+                            <path id="g5GVqNGBWHVMqgU1" d="M276.3671875,89.7 h55.2578125" />
+                        </defs>
+                        <text fill="rgb(51, 51, 51)" font-size="14px"
+                            font-family="Helvetica, &quot;VP Default&quot;" font-weight="400">
+                            <textPath xlink:href="#g5GVqNGBWHVMqgU1" startOffset="50%"
+                                text-anchor="middle">
+                                <tspan xml:space="preserve">Raspi 4b</tspan>
+                            </textPath>
+                        </text>
+                    </svg>
+                </switch>
+            </g>
+        </g>
+        <g shape-node="">
+            <rect cell-id="WFkd4TCEXYtGdIXSzUNu-14" x="254.2" y="207.12" width="100" height="15.88"
+                fill="#cccccc" stroke="#6881b3" stroke-width="1.76" pointer-events="all" />
+            <path cell-id="WFkd4TCEXYtGdIXSzUNu-14"
+                d="M 258.2 204.47 L 279.2 193 L 329.2 193 L 350.2 204.47 Z" fill="#cccccc"
+                stroke="#6881b3" stroke-width="1.76" stroke-miterlimit="10" pointer-events="all" />
+            <path cell-id="WFkd4TCEXYtGdIXSzUNu-14"
+                d="M 258.2 223 L 258.2 207.12 L 263.2 207.12 L 263.2 208.88 L 271.2 211.09 L 275.2 211.09 L 275.2 207.12 L 277.7 207.12 L 277.7 211.09 L 293.2 211.09 L 293.2 207.12 L 295.7 207.12 L 295.7 211.09 L 311.7 211.09 L 311.7 207.12 L 314.2 207.12 L 314.2 211.09 L 330.2 211.09 L 330.2 207.12 L 332.7 207.12 L 332.7 211.09 L 336.7 211.09 L 344.7 208.88 L 344.7 207.12 L 349.7 207.12 L 349.7 223 L 344.7 223 L 344.7 221.24 L 336.7 219.03 L 332.7 219.03 L 332.7 223 L 330.2 223 L 330.2 219.03 L 314.2 219.03 L 314.2 223 L 311.7 223 L 311.7 219.03 L 295.7 219.03 L 295.7 223 L 293.2 223 L 293.2 219.03 L 277.7 219.03 L 277.7 223 L 275.2 223 L 275.2 219.03 L 271.2 219.03 L 263.2 221.24 L 263.2 223 Z"
+                fill="#ffffff" stroke="#6881b3" stroke-width="1.76" stroke-miterlimit="10"
+                pointer-events="all" />
+        </g>
+        <g shape-node="" text-node="">
+            <g cell-id="WFkd4TCEXYtGdIXSzUNu-14" transform="translate(-0.5 -0.5)">
+                <switch cell-id="WFkd4TCEXYtGdIXSzUNu-14">
+                    <foreignObject cell-id="WFkd4TCEXYtGdIXSzUNu-14"
+                        style="overflow: visible; text-align: left;" pointer-events="none"
+                        width="100%" height="100%"
+                        requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                            style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 230px; margin-left: 255px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                                <div ani=""
+                                    style="display: inline-block; font-size: 14px; font-family: &quot;Helvetica&quot;, &quot;VP Default&quot;; color: #333333; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                                    <span style="color: rgb(51 , 51 , 51)">Raspi 4b</span>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <svg width="100%" height="100%">
+                        <defs>
+                            <path id="Q5GVqNGBWHVMqgU2" d="M276.3671875,244.7 h55.2578125" />
+                        </defs>
+                        <text fill="rgb(51, 51, 51)" font-size="14px"
+                            font-family="Helvetica, &quot;VP Default&quot;" font-weight="400">
+                            <textPath xlink:href="#Q5GVqNGBWHVMqgU2" startOffset="50%"
+                                text-anchor="middle">
+                                <tspan xml:space="preserve">Raspi 4b</tspan>
+                            </textPath>
+                        </text>
+                    </svg>
+                </switch>
+            </g>
+        </g>
+        <g shape-node="">
+            <rect cell-id="WFkd4TCEXYtGdIXSzUNu-16" x="246.2" y="0" width="152" height="32"
+                fill="none" stroke="none" pointer-events="all" />
+        </g>
+        <g shape-node="" text-node="">
+            <g cell-id="WFkd4TCEXYtGdIXSzUNu-16" transform="translate(-0.5 -0.5)">
+                <switch cell-id="WFkd4TCEXYtGdIXSzUNu-16">
+                    <foreignObject cell-id="WFkd4TCEXYtGdIXSzUNu-16"
+                        style="overflow: visible; text-align: left;" pointer-events="none"
+                        width="100%" height="100%"
+                        requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                            style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 150px; height: 1px; padding-top: 16px; margin-left: 248px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                                <div ani=""
+                                    style="display: inline-block; font-size: 14px; font-family: &quot;Open Sans&quot;, &quot;VP Default&quot;; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">eth0:
+                                    10.0.5.1/8<br />wg0: 192.168.20.1/24</div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <svg width="100%" height="100%">
+                        <defs>
+                            <path id="w5GVqNGBWHVMqgU3"
+                                d="M248,13.903125 h137.9921875 M248,30.703125 h137.9921875" />
+                            <path id="I5GVqNGBWHVMqgU4"
+                                d="M248,13.903125 h137.9921875 M248,30.703125 h137.9921875" />
+                        </defs>
+                        <text fill="rgb(0, 0, 0)" font-size="14px"
+                            font-family="&quot;Open Sans&quot;, &quot;VP Default&quot;"
+                            font-weight="400">
+                            <textPath xlink:href="#w5GVqNGBWHVMqgU3">
+                                <tspan xml:space="preserve">eth0: 10.0.5.1/8</tspan>
+                                <tspan xml:space="preserve" />
+                                <tspan xml:space="preserve">wg0: 192.168.20.1/24</tspan>
+                            </textPath>
+                        </text>
+                        <text fill="rgb(0, 0, 0)" font-size="14px"
+                            font-family="&quot;Open Sans&quot;, &quot;VP Default&quot;"
+                            font-weight="400">
+                            <textPath xlink:href="#I5GVqNGBWHVMqgU4">
+                                <tspan xml:space="preserve">eth0: 10.0.5.1/8</tspan>
+                                <tspan xml:space="preserve" />
+                                <tspan xml:space="preserve">wg0: 192.168.20.1/24</tspan>
+                            </textPath>
+                        </text>
+                    </svg>
+                </switch>
+            </g>
+        </g>
+        <g shape-node="">
+            <path cell-id="WFkd4TCEXYtGdIXSzUNu-18" d="M 6 128 L 6 102 L 146 102 L 146 128"
+                fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all" />
+            <path cell-id="WFkd4TCEXYtGdIXSzUNu-18" d="M 6 128 L 6 206 L 146 206 L 146 128"
+                fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" />
+            <path cell-id="WFkd4TCEXYtGdIXSzUNu-18" d="M 6 128 L 146 128" fill="none"
+                stroke="#000000" stroke-miterlimit="10" pointer-events="none" />
+        </g>
+        <g shape-node="" text-node="">
+            <g cell-id="WFkd4TCEXYtGdIXSzUNu-18" transform="translate(-0.5 -0.5)">
+                <switch cell-id="WFkd4TCEXYtGdIXSzUNu-18">
+                    <foreignObject cell-id="WFkd4TCEXYtGdIXSzUNu-18"
+                        style="overflow: visible; text-align: left;" pointer-events="none"
+                        width="100%" height="100%"
+                        requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                            style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 115px; margin-left: 7px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                                <div ani=""
+                                    style="display: inline-block; font-size: 14px; font-family: &quot;Helvetica&quot;, &quot;VP Default&quot;; color: #333333; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; ">Routing
+                                    table</div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <svg width="100%" height="100%">
+                        <defs>
+                            <path id="o5GVqNGBWHVMqgU5" d="M34.7421875,121.3015625 h82.5078125" />
+                        </defs>
+                        <text fill="rgb(51, 51, 51)" font-size="14px"
+                            font-family="Helvetica, &quot;VP Default&quot;" font-weight="400">
+                            <textPath xlink:href="#o5GVqNGBWHVMqgU5" startOffset="50%"
+                                text-anchor="middle">
+                                <tspan xml:space="preserve">Routing table</tspan>
+                            </textPath>
+                        </text>
+                    </svg>
+                </switch>
+            </g>
+        </g>
+        <g shape-node="" text-node="">
+            <g cell-id="WFkd4TCEXYtGdIXSzUNu-19" fill="#000000" font-family="Helvetica"
+                pointer-events="none" clip-path="url(#mx-clip-10-133-132-26-0)" font-size="12px">
+                <text cell-id="WFkd4TCEXYtGdIXSzUNu-19" pointer-events="none" x="11.5" y="145.5">
+                    192.168.20.0/24</text>
+            </g>
+        </g>
+        <g shape-node="" text-node="">
+            <g cell-id="WFkd4TCEXYtGdIXSzUNu-20" fill="#000000" font-family="Helvetica"
+                pointer-events="none" clip-path="url(#mx-clip-10-159-132-26-0)" font-size="12px">
+                <text cell-id="WFkd4TCEXYtGdIXSzUNu-20" pointer-events="none" x="11.5" y="171.5"> 
+                    via 10.0.5.1/8</text>
+            </g>
+        </g>
+        <g shape-node="" text-node="">
+            <g cell-id="WFkd4TCEXYtGdIXSzUNu-21" fill="#000000" font-family="Helvetica"
+                pointer-events="none" clip-path="url(#mx-clip-10-185-132-26-0)" font-size="12px">
+                <text cell-id="WFkd4TCEXYtGdIXSzUNu-21" pointer-events="none" x="11.5" y="197.5"> 
+                    via 10.0.7.1/8</text>
+            </g>
+        </g>
+        <g shape-node="">
+            <path cell-id="1tPzjZM2-DsCGXiqqFgk-2"
+                d="M 240 57 L 206 57 Q 196 57 196 67 L 196 156 Q 196 166 186 166 L 167.37 166"
+                fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" />
+            <path cell-id="1tPzjZM2-DsCGXiqqFgk-2"
+                d="M 162.12 166 L 169.12 162.5 L 167.37 166 L 169.12 169.5 Z" fill="#000000"
+                stroke="#000000" stroke-miterlimit="10" pointer-events="none" />
+        </g>
+        <g shape-node="">
+            <path cell-id="1tPzjZM2-DsCGXiqqFgk-3"
+                d="M 236 213 L 206 213 Q 196 213 196 203 L 196 197.5 Q 196 192 186 192 L 167.37 192"
+                fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" />
+            <path cell-id="1tPzjZM2-DsCGXiqqFgk-3"
+                d="M 162.12 192 L 169.12 188.5 L 167.37 192 L 169.12 195.5 Z" fill="#000000"
+                stroke="#000000" stroke-miterlimit="10" pointer-events="none" />
+        </g>
+        <g shape-node="" text-node="">
+            <g cell-id="1tPzjZM2-DsCGXiqqFgk-4" transform="translate(-0.5 -0.5)">
+                <switch cell-id="1tPzjZM2-DsCGXiqqFgk-4">
+                    <foreignObject cell-id="1tPzjZM2-DsCGXiqqFgk-4"
+                        style="overflow: visible; text-align: left;" pointer-events="none"
+                        width="100%" height="100%"
+                        requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                            style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 42px; height: 1px; padding-top: 48px; margin-left: 200px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                                <div ani=""
+                                    style="display: inline-block; font-size: 14px; font-family: &quot;Open Sans&quot;, &quot;VP Default&quot;; color: #333333; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                                    BGP</div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <svg width="100%" height="100%">
+                        <defs>
+                            <path id="E5GVqNGBWHVMqgU6" d="M207.171875,54.3015625 h27.6484375" />
+                        </defs>
+                        <text fill="rgb(51, 51, 51)" font-size="14px"
+                            font-family="&quot;Open Sans&quot;, &quot;VP Default&quot;"
+                            font-weight="400">
+                            <textPath xlink:href="#E5GVqNGBWHVMqgU6" startOffset="50%"
+                                text-anchor="middle">
+                                <tspan xml:space="preserve">BGP</tspan>
+                            </textPath>
+                        </text>
+                    </svg>
+                </switch>
+            </g>
+        </g>
+        <g shape-node="" text-node="">
+            <g cell-id="1tPzjZM2-DsCGXiqqFgk-5" transform="translate(-0.5 -0.5)">
+                <switch cell-id="1tPzjZM2-DsCGXiqqFgk-5">
+                    <foreignObject cell-id="1tPzjZM2-DsCGXiqqFgk-5"
+                        style="overflow: visible; text-align: left;" pointer-events="none"
+                        width="100%" height="100%"
+                        requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                            style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 42px; height: 1px; padding-top: 204px; margin-left: 200px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                                <div ani=""
+                                    style="display: inline-block; font-size: 14px; font-family: &quot;Open Sans&quot;, &quot;VP Default&quot;; color: #333333; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                                    BGP</div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <svg width="100%" height="100%">
+                        <defs>
+                            <path id="k5GVqNGBWHVMqgU7" d="M207.171875,210.3015625 h27.6484375" />
+                        </defs>
+                        <text fill="rgb(51, 51, 51)" font-size="14px"
+                            font-family="&quot;Open Sans&quot;, &quot;VP Default&quot;"
+                            font-weight="400">
+                            <textPath xlink:href="#k5GVqNGBWHVMqgU7" startOffset="50%"
+                                text-anchor="middle">
+                                <tspan xml:space="preserve">BGP</tspan>
+                            </textPath>
+                        </text>
+                    </svg>
+                </switch>
+            </g>
+        </g>
+        <g shape-node="" text-node="">
+            <g cell-id="AXVFQhbKuuLL0n1LuxQ3-4" transform="translate(-0.5 -0.5)">
+                <switch cell-id="AXVFQhbKuuLL0n1LuxQ3-4">
+                    <foreignObject cell-id="AXVFQhbKuuLL0n1LuxQ3-4"
+                        style="overflow: visible; text-align: left;" pointer-events="none"
+                        width="100%" height="100%"
+                        requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                            style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 150px; height: 1px; padding-top: 172px; margin-left: 245px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                                <div ani=""
+                                    style="display: inline-block; font-size: 14px; font-family: &quot;Open Sans&quot;, &quot;VP Default&quot;; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; ">eth0:
+                                    10.0.7.1/8<br />wg0: 192.168.20.1/24</div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <svg width="100%" height="100%">
+                        <defs>
+                            <path id="05GVqNGBWHVMqgU8"
+                                d="M245,169.903125 h137.9921875 M245,186.703125 h137.9921875" />
+                            <path id="05GVqNGBWHVMqgU9"
+                                d="M245,169.903125 h137.9921875 M245,186.703125 h137.9921875" />
+                        </defs>
+                        <text fill="rgb(0, 0, 0)" font-size="14px"
+                            font-family="&quot;Open Sans&quot;, &quot;VP Default&quot;"
+                            font-weight="400">
+                            <textPath xlink:href="#05GVqNGBWHVMqgU8">
+                                <tspan xml:space="preserve">eth0: 10.0.7.1/8</tspan>
+                                <tspan xml:space="preserve" />
+                                <tspan xml:space="preserve">wg0: 192.168.20.1/24</tspan>
+                            </textPath>
+                        </text>
+                        <text fill="rgb(0, 0, 0)" font-size="14px"
+                            font-family="&quot;Open Sans&quot;, &quot;VP Default&quot;"
+                            font-weight="400">
+                            <textPath xlink:href="#05GVqNGBWHVMqgU9">
+                                <tspan xml:space="preserve">eth0: 10.0.7.1/8</tspan>
+                                <tspan xml:space="preserve" />
+                                <tspan xml:space="preserve">wg0: 192.168.20.1/24</tspan>
+                            </textPath>
+                        </text>
+                    </svg>
+                </switch>
+            </g>
+        </g>
+        <g shape-node="">
+            <path cell-id="1tPzjZM2-DsCGXiqqFgk-2"
+                d="M 240 57 L 206 57 Q 196 57 196 67 L 196 156 Q 196 166 186 166 L 167.37 166"
+                fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" />
+            <path cell-id="1tPzjZM2-DsCGXiqqFgk-2"
+                d="M 162.12 166 L 169.12 162.5 L 167.37 166 L 169.12 169.5 Z" fill="#000000"
+                stroke="#000000" stroke-miterlimit="10" pointer-events="none" />
+        </g>
+        <g shape-node="">
+            <path cell-id="1tPzjZM2-DsCGXiqqFgk-3"
+                d="M 236 213 L 206 213 Q 196 213 196 203 L 196 197.5 Q 196 192 186 192 L 167.37 192"
+                fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" />
+            <path cell-id="1tPzjZM2-DsCGXiqqFgk-3"
+                d="M 162.12 192 L 169.12 188.5 L 167.37 192 L 169.12 195.5 Z" fill="#000000"
+                stroke="#000000" stroke-miterlimit="10" pointer-events="none" />
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+main:
+  - title: "About"
+    url: /about
+  - title: "Travel"
+    url: /categories/travel
+  - title: "Homelab"
+    url: /categories/homelab
+  - title: "Posts"
+    url: /years
+  - title: "Tags"
+    url: /tags
+  # - title: "Publications"
+  #   url: /publications
+  # - title: "External Link"
+  #   url: https://www.google.com

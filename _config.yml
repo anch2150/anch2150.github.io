@@ -1,0 +1,85 @@
+title: anch
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal blog of anch
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://anch2150.github.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+author:
+  name: Chong An
+  avatar: "/assets/img/bio-photo.jpg"
+  bio: "Won almost every battle with my homelab"
+  location: "Munich, DE"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/anch2150"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/anch2150"
+
+# Build settings
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-archives
+  - jekyll-feed
+  - jekyll-scholar
+
+include:
+  - "_pages"
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+breadcrumbs: true
+paginate: 5
+paginate_path: /page:num
+
+category_archive:
+  type: jekyll-archives
+  path: /categories
+tag_archive:
+  type: jekyll-archives
+  path: /tags
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single-toc
+      toc: true
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      sidebar: []
+      classes: wide
+
+comments:
+  provider: giscus
+  giscus:
+    repo_id: R_kgDOKdi8_g
+    category_name: General
+    category_id: DIC_kwDOKdi8_s4CZ9XY
+    theme: preferred_color_scheme
