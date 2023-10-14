@@ -2,7 +2,8 @@ title: anch
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog of anch
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://anch2150.github.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://anch2150.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: anch2150/anch2150.github.io
 
 author:
   name: Chong An
@@ -19,6 +20,7 @@ author:
 
 # Build settings
 theme: minimal-mistakes-jekyll
+support_dark_theme: true
 plugins:
   - jekyll-archives
   - jekyll-feed
@@ -83,3 +85,9 @@ comments:
     category_name: General
     category_id: DIC_kwDOKdi8_s4CZ9XY
     theme: preferred_color_scheme
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-3NLBK6M802"
+    anonymize_ip: false
